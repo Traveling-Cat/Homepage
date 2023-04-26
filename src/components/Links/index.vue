@@ -46,12 +46,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.daimabox.com/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://www.123pan.com/",
   },
   {
     icon: CompactDisc,
@@ -61,7 +61,7 @@ let linksData = [
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://daimabox.com/",
   },
   {
     icon: Book,
