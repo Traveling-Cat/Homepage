@@ -52,14 +52,14 @@ let linksData = [
     link: "https://blog.daimabox.com/",
   },
   {
-    icon: BookOpen,
-    name: "待定",
-    link: "",
+    icon: Cloud,
+    name: "纸飞机",
+    link: "http://wz.xsus.link/",
   },
   {
     icon: CompactDisc,
-    name: "待定",
-    link: "",
+    name: "域名控制台",
+    link: "https://dash.cloudflare.com/login",
   },
   {
     icon: BookOpen,
