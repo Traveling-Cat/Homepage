@@ -49,9 +49,9 @@ let linksData = [
     link: "https://blog.daimabox.com/",
   },
   {
-    icon: Cloud,
-    name: "网盘",
-    link: "https://www.123pan.com/",
+    icon: BookOpen,
+    name: "Notion",
+    link: "https://page.daimabox.com/",
   },
   {
     icon: CompactDisc,
@@ -59,9 +59,9 @@ let linksData = [
     link: "https://music.imsyy.top/",
   },
   {
-    icon: Compass,
-    name: "起始页",
-    link: "https://www.daimabox.com/",
+    icon: Icons,
+    name: "图标",
+    link: "https://www.xicons.org/",
   },
   {
     icon: Book,
