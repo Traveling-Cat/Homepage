@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">我的链接</span>
     </div>
     <el-row class="link-all" :gutter="20">
       <el-col
@@ -38,6 +38,9 @@ import {
   Compass,
   Book,
   Fire,
+  BookOpen,
+  Icons,
+  Rocketchat,
 } from "@vicons/fa";
 
 // 网站链接数据
@@ -59,18 +62,18 @@ let linksData = [
     link: "https://music.imsyy.top/",
   },
   {
+    icon: BookOpen,
+    name: "Notion",
+    link: "https://page.daimabox.com/",
+  },
+  {
     icon: Icons,
-    name: "图标",
+    name: "Icon",
     link: "https://www.xicons.org/",
   },
   {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Fire,
-    name: "今日热榜",
+    icon: Rocketchat,
+    name: "ChatGPT",
     link: "https://hot.imsyy.top/",
   },
 ];
