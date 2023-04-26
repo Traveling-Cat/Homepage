@@ -61,7 +61,7 @@ let linksData = [
   {
     icon: Compass,
     name: "起始页",
-    link: "https://daimabox.com/",
+    link: "https://www.daimabox.com/",
   },
   {
     icon: Book,
