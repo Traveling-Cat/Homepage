@@ -53,13 +53,13 @@ let linksData = [
   },
   {
     icon: BookOpen,
-    name: "Notion",
-    link: "https://page.daimabox.com/",
+    name: "待定",
+    link: "",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "待定",
+    link: "",
   },
   {
     icon: BookOpen,
@@ -74,7 +74,7 @@ let linksData = [
   {
     icon: Rocketchat,
     name: "ChatGPT",
-    link: "https://hot.imsyy.top/",
+    link: "https://www.askopenai.co/",
   },
 ];
 
