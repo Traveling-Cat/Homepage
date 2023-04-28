@@ -64,7 +64,7 @@ let linksData = [
   {
     icon: BookOpen,
     name: "Notion",
-    link: "https://page.daimabox.com/",
+    link: "https://note.daimabox.com/",
   },
   {
     icon: Icons,
