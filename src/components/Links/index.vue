@@ -53,12 +53,12 @@ let linksData = [
   },
   {
     icon: Cloud,
-    name: "纸飞机",
-    link: "http://wz.xsus.link/",
+    name: "云盘",
+    link: "http://pan.daimabox.com/",
   },
   {
     icon: CompactDisc,
-    name: "域名控制台",
+    name: "Cloudflare",
     link: "https://dash.cloudflare.com/login",
   },
   {
