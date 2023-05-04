@@ -13,4 +13,20 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:i571216619@163.com"
-}]
+},  {
+    "name": "Vercel",
+    "icon": "/images/icon/vercel.png",
+    "tip": "文件丢失啦~",
+    "url": "https://vercel.com/dashboard"} 
+,{
+    "name": "Cloudflare",
+    "icon": "/images/icon/cloud.png",
+    "tip": "不会崩溃吧~",
+    "url": "https://dash.cloudflare.com/login"
+},{
+    "name": "Icon",
+    "icon": "/images/icon/favicon.png",
+    "tip": "五彩缤纷的黑！",
+    "url": "https://www.xicons.org/"
+}
+]
