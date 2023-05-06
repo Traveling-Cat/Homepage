@@ -41,6 +41,9 @@ import {
   BookOpen,
   Icons,
   Rocketchat,
+  Safari,
+  Earlybirds,
+  FeatherAlt,
 } from "@vicons/fa";
 
 // 网站链接数据
@@ -57,7 +60,7 @@ let linksData = [
     link: "http://pan.daimabox.com/",
   },
   {
-    icon: CompactDisc,
+    icon: FeatherAlt,
     name: "Cloudflare",
     link: "https://dash.cloudflare.com/login",
   },
@@ -67,14 +70,14 @@ let linksData = [
     link: "https://note.daimabox.com/",
   },
   {
-    icon: Icons,
-    name: "Icon",
-    link: "https://www.xicons.org/",
+    icon: Safari,
+    name: "谷歌镜像",
+    link: "https://google.saop.cc/",
   },
   {
-    icon: Rocketchat,
+    icon: Earlybirds,
     name: "ChatGPT",
-    link: "https://www.askopenai.co/",
+    link: "https://chat.saop.cc/",
   },
 ];
 
